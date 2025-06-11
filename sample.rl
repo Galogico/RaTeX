@@ -1,2 +1,5 @@
 /anchor
-isso é uma ancora
+/porg
+/ratex
+/ban
+/computer
